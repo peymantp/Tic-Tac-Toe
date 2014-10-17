@@ -1,0 +1,78 @@
+html {
+	padding: 1%;
+}
+
+body {
+	background:url(../Images/background.png);
+	background-size:cover;
+}
+
+.container {
+	font-size: 120%;
+}
+
+#banner {
+	background:url(../Images/banner.png) center no-repeat;
+	height: 100px;
+}
+
+#mainImage {
+	padding-top: .5%;
+	padding-bottom: .5%;	
+}
+
+#nav {
+	border-bottom: 3px solid black;
+	padding-bottom: 1%;
+	text-align:center;
+}
+
+#nav a {
+	margin: 1%;
+}
+
+#animal {
+	text-decoration: underline;
+}
+
+#explain {
+	text-align: center;
+}
+
+.img {
+	padding-bottom:5px;
+}
+
+.col-md-8 img {
+	float: left;
+	padding-bottom: 1%;
+	margin-top: 5%;
+}
+
+.col-md-12 {
+	text-align: center;
+}
+
+.main .col-md-12 {
+	text-align:left;
+}
+
+form {
+	margin: 1%;
+}
+
+form label {
+	vertical-align: top;
+}
+
+#footer {
+	border-top: 3px solid black;
+}
+
+#footer #jason {
+	text-align:center;
+}
+
+#footer #peyman {
+	text-align: center;
+}
