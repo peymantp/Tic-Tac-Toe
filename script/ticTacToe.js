@@ -1,6 +1,6 @@
 // tracks turns
 var turn = 0;
-var player1Image = '<img id="drag1" src="images/dragon.png" alt="dragon" draggable="true" ondragstart="drag(event)" width="100" height="100" />';
+var player1Image = '<img id="drag1" src="images/dragon.PNG" alt="dragon" draggable="true" ondragstart="drag(event)" width="100" height="100" />';
 var player2Image = '<img id="drag2" src="images/dog.png" alt="dog" draggable="true" ondragstart="drag(event)" width="100" height="100" />';
 
 // identify winner - No Winner = 0; Player 1 = 1; Player 2 = -1
